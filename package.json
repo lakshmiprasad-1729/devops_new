@@ -1,0 +1,13 @@
+{
+  "name": "my-test-node-app",
+  "version": "1.0.0",
+  "description": "A simple app to test my PaaS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
